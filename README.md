@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/digital-human.gif" width="240" alt="digital human greeting animation" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20to%20my%20profile!&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Welcome to my profile!" />
 </p>
 
