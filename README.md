@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/dynamic-signature.gif" width="420" alt="bug子 dynamic signature" />
+  <img src="./assets/dynamic-signature.gif" width="520" alt="bug子 dynamic signature" />
 </p>
 
 <p align="center">
