@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./assets/digital-human.gif" width="240" alt="digital human greeting animation" />
-</p>
-
-<p align="center">
-  <img src="./assets/dynamic-signature.gif" width="520" alt="bug子 dynamic signature" />
+  <img src="./assets/profile-intro.gif" width="760" alt="digital human and bug子 dynamic signature intro" />
 </p>
 
 <p align="center">
