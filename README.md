@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/dynamic-signature.gif" width="420" alt="bug子 dynamic signature" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20to%20my%20profile!&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Welcome to my profile!" />
 </p>
 
